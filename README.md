@@ -15,7 +15,7 @@ Author: **Huy Dang**
 
 ### Wiring Diagram
 
-![alt Wiring Diagram](wiring diagram.png)
+![alt Wiring Diagram](wiring_diagram.png)
 
 ### Wiring
 
